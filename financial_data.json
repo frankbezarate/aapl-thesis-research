@@ -1,0 +1,67 @@
+{
+  "ticker": "AAPL",
+  "stock_info": {
+    "symbol": "AAPL",
+    "shortName": "Apple Inc.",
+    "marketCap": 3539084395264,
+    "regularMarketPrice": 230.54,
+    "trailingPE": 35.18,
+    "forwardPE": 32.89,
+    "dividendYield": 0.00416,
+    "beta": 1.24,
+    "fiftyTwoWeekHigh": 237.23,
+    "fiftyTwoWeekLow": 164.075,
+    "profitMargins": 0.26263,
+    "returnOnEquity": 1.475,
+    "totalCash": 67085000000,
+    "totalDebt": 111088000000,
+    "freeCashflow": 110159000000,
+    "revenuePerShare": 84.85,
+    "sharesOutstanding": 15289300000
+  },
+  "price_period": {
+    "start_date": "2024-07-01",
+    "end_date": "2024-07-22",
+    "start_price": 216.23,
+    "end_price": 225.01
+  },
+  "income_statement_summary": {
+    "fiscal_year": "2023-09-30",
+    "totalRevenue": 383285000000,
+    "netIncome": 96995000000,
+    "basicEPS": 6.13,
+    "dilutedEPS": 6.11,
+    "operatingIncome": 115103000000,
+    "EBITDA": 130734000000
+  },
+  "balance_sheet_summary": {
+    "fiscal_year": "2023-09-30",
+    "totalAssets": 352583000000,
+    "totalLiabilities": 290437000000,
+    "totalEquity": 62146000000,
+    "cashAndCashEquivalents": 29900000000,
+    "shortTermDebt": 109620000000,
+    "longTermDebt": 85700000000
+  },
+  "top_holders": [
+    {"holder": "Vanguard Group Inc", "%Out": 8.52},
+    {"holder": "Blackrock Inc.", "%Out": 7.46},
+    {"holder": "State Street Corporation", "%Out": 4.13},
+    {"holder": "Berkshire Hathaway Inc", "%Out": 1.98},
+    {"holder": "Geode Capital Management, LLC", "%Out": 1.76}
+  ],
+  "recommendations": [
+    {"firm": "Piper Sandler", "toGrade": "Overweight"},
+    {"firm": "Rosenblatt", "toGrade": "Buy"},
+    {"firm": "Monness Crespi Hardt", "toGrade": "Buy"},
+    {"firm": "Oppenheimer", "toGrade": "Outperform"},
+    {"firm": "Wedbush", "toGrade": "Outperform"}
+  ],
+  "news_headlines": [
+    "Apple Inc (AAPL) Q4 2024 Earnings Preview: What to Expect",
+    "AAPL Stock Jumps on iPhone 16 Launch Buzz",
+    "Analysts Upgrade Apple Rating Amid AI Push",
+    "Apple Services Revenue Hits Record High",
+    "Berkshire Hathaway Boosts AAPL Stake"
+  ]
+}
